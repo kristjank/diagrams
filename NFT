@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T07:18:17.319Z" agent="5.0 (Macintosh)" etag="ADbpmt-bvChUGxUWOHGh" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-23T07:26:34.172Z" agent="5.0 (Macintosh)" etag="70SJ8HFmN5DfI_WelqOe" version="13.3.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2023" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2023" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,9 @@
         <mxCell id="uaguQs_bRODa3H_5950c-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="wNrzx_4ZzfNDb7AbmVMs-98" target="uaguQs_bRODa3H_5950c-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-99" value="digital asset Data that corresponds &lt;br&gt;to the registered structure from process 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaguQs_bRODa3H_5950c-98">
+        <mxCell id="uaguQs_bRODa3H_5950c-99" value="digital asset data that &lt;br&gt;must corresponds &lt;br&gt;to the registered &lt;br&gt;structure from process 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaguQs_bRODa3H_5950c-98">
           <mxGeometry x="-0.2567" y="1" relative="1" as="geometry">
-            <mxPoint x="101.5" y="-5.59" as="offset" />
+            <mxPoint x="64" y="-4.17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wNrzx_4ZzfNDb7AbmVMs-98" value="Asset Creator" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
@@ -26,7 +26,7 @@
         <mxCell id="wNrzx_4ZzfNDb7AbmVMs-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.293;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="wNrzx_4ZzfNDb7AbmVMs-99" target="wNrzx_4ZzfNDb7AbmVMs-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wNrzx_4ZzfNDb7AbmVMs-103" value="digital asset&amp;nbsp; &lt;br&gt;structure and limitations &lt;br&gt;in the form of JSONSchema" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wNrzx_4ZzfNDb7AbmVMs-102" vertex="1" connectable="0">
+        <mxCell id="wNrzx_4ZzfNDb7AbmVMs-103" value="digital asset&amp;nbsp; &lt;br&gt;structure and limitations &lt;br&gt;defined by JSONSchema" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wNrzx_4ZzfNDb7AbmVMs-102" vertex="1" connectable="0">
           <mxGeometry x="-0.2054" y="-2" relative="1" as="geometry">
             <mxPoint x="30.799999999999997" y="32.97" as="offset" />
           </mxGeometry>
@@ -85,9 +85,9 @@
         <mxCell id="uaguQs_bRODa3H_5950c-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.258;entryY=1.064;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="uaguQs_bRODa3H_5950c-96" target="wNrzx_4ZzfNDb7AbmVMs-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-105" value="digital Asset ID (Unique Token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaguQs_bRODa3H_5950c-104">
+        <mxCell id="uaguQs_bRODa3H_5950c-105" value="digital Asset ID&lt;br&gt; (Unique Token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaguQs_bRODa3H_5950c-104">
           <mxGeometry x="-0.4585" y="3" relative="1" as="geometry">
-            <mxPoint x="19.41" y="9.48" as="offset" />
+            <mxPoint x="-75.83" y="-145.5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uaguQs_bRODa3H_5950c-96" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Process 2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Create Digital &lt;br&gt;Assets&lt;br&gt;(NFTs)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -209,8 +209,14 @@
         <mxCell id="uaguQs_bRODa3H_5950c-126" value="Asset Buyer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="860" y="730" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-144" value="&lt;h1&gt;Protokol Digital Assets &lt;br&gt;&lt;/h1&gt;&lt;p&gt;Digital Asset (NFT) creation and exchange support for any ARK Core v3 Bridgechain&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="5" width="280" height="120" as="geometry" />
+        <mxCell id="uaguQs_bRODa3H_5950c-144" value="&lt;h1&gt;Protokol Digital Assets &lt;br&gt;&lt;/h1&gt;&lt;p&gt;Digital Asset (NFT) creation and exchange support for any ARK Core v3 Bridgechain. &lt;br&gt;&lt;br&gt;All the processes are defined, validated and stored on-chain as the single source of truth. &lt;br&gt;&lt;br&gt;All the interaction is done via our client SDK and REST API.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="20" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uaguQs_bRODa3H_5950c-146" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#FF3333;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAggAAACyCAYAAAAnMjdZAAAMdElEQVR4nO3dT4hl2V0H8DsaZhwNM911XzEjBtIOTdL9brWbJGqDgz1dnWS6693KZDFEAkJQ3CkSNyaQVTZKkCEGMQSSKmcRAhEUhIAu1AFRF1ETxCRoIBKCC10MMdNVMzqZlAvTPTXN66577j3/bvXnA3dZ5/c7v/f6nG+9ru5qGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOLb3j84quEpPYe7WXT9Ueqn7fp3ld4nANx2de+lq6WDwe1n7+D50vNYJ0dAOP6U3i8AVPPpQc2fIuQOCIICAEWVDgNzCQmlAsKi6482zl9/pPT+AbjPlA4CAsLQZ/WV0jO4H/hkJ4x5pdMuV39qthRTOgTMKSSUDwj90aLr/6r0HE47F14Y80pHQKCo0gHgpOfaZ158tPSMbqkgHDgMMvA6hDGvdAQEiil9+c/tU4TSwcCBkIfXIIx5pSMgUMTVvcPfK33xD39u/lvpeTVNXQHBoZCO+Ycxr3QEBIqo4Tv4GnoIkeogXHT9dwWEeph/GPNKR0Agu7CfAThK+jMAcwoJqQ/Ctlv9rZBQntmHMa90BASyq+lSrqmXk+Q6CAWEssw+jHmlIyCQVY0Xco09rZPrIDz7xLVHB9c6f/2hGHvjdS68MOaVjoBANuc/dfRQjZfx9t7BK0N7evfey7+Yq6875TwIfYpQjrmHMa90BASyqTEczKG3WzIfhA84eMsw9zDmlY6AQBbX9g+/MfgS3jv4u9z9vftzB+8M6O+V3P01Tf6D0MFbhrmHMa90BASymMN36LX3KCDcH8w9jHmlIyCQXO0X71x6vR8Dwgm1X4hba/c/T97v+z4Ys+b6PsrPfVifq187uc/Vd9L3MY95BRr0V3yb3ZU3p2xCQCC5mi/dOfU6x4Aw9uuH1p6659A6b3iW/ffG1k3WU/r3xEs19HFHT8lq597jxNf5uSm11xEQSKrmC/duau25wGUwuV7o17dd/5Ech3KtF3CK3mL0V1s/Y3rLsefUexjytMv+tbF93ElAIJn3fPalrVov23u59keH3xza87X9w9/J1VfuwzdGvZCvb7v+xdSHcuyL7g0Hc7f752NnnbrH0b1s9V9KObOc80qx5tS9JJ7tj4zp6TgBgWTmGA5uqbH3nIfuxlb/nhj1hn79ouu/nPqSSXkYx5x/LT2dtnml3Hdwzxff+5M5Ztt2/fdDeztOQCCJkAt2e//wt0r3e6fLzx09XFtIyHXghtRqu/7FqeuE1Fvz/M2Jm+mefTDXZRfjNaihn9M4r4FrfSt17+2y//u5zFdAIInaLtcxattDjsO2aZqm7VavxqpVw8GX+zCe+jqU7uW0zuukddqt1UdT97zo+q/Oab4CAtHVdrFOUdNeUh+0P6xxGPPQKX3olTqMp7wWJfs4zfO61xqb3Y3HU/d69sKNS3Obr4BAdDVdqlOF7OXyF48eTtlLykM2ZP3bz7L/j+hrhh12D5SqnfJQLtVD6TmlnlfMvYf2WMt822X/GyE9CwhEdZrCwS217Cn24XXm4o231nzpbHa7f7Buzbbrvx37wD92gN7ln4hdedP4OV1505BZxZjZ6Nfq/PWHRq/dPftg7H2kmFeseYf0NnUWbdd/bd16mxdXv5ljtgICUQVcpi+X7nWo7f2D/TkFhEzPC6l6LjGrza7/7VRrh+4p55xy7GnR9R+udV453puby50nw+s8+6Ox9z9mHwICUYV8t53iSbOnl58UEEZfDskP4FI1A+t8OPa6Y/u+U7vV/3KF84r+Hpvcz1suj/orxBzvx9B/GTF8XQGBiEoHhBSXdOmAckvoQZPqSdVziTnVWMu80s8r9D3fLlfbNe15nbbr92PXEhCI6h2fOfrx0gFh+3MvPRVrP9t7B68MrXv1s4c/G6vuOqGHWoonVc8RZ/S9nDUXW6tP13DhTdrDwHqb3epjOestut1/iLleeP3b+x79P2Sm/LOVo56AQHTFA0LE7+Rr+fSgacoHhFQ9t93uH5eYUa01c/bfLvvXcs8rds2QtULf823Xf3vKXofWOfvEtUen1BlTc8gPzwoIJFE6IMS4sGsKB01TNiCk7LlEQIhVr2maZuP89beUuvCmKjGv2HVTvefb5eoHNe0zds0hdQUEkigdDgSEOM9Gd32Zuue5B4TYdXPu4X6aV+iTa4+L5Sr6v+iKtUcBgWRKB4QpF3dt4aBp8gaEnD3HCght1//hsHrr/235FCUuvNr6DrHZ9X8xpO5m15/421Jrff+Xmm3M2gICyVzbP/zdOQaE7f2Djw9d/+r+wb/HntvdpDgIjz+PdO/dKNFzrIBQ8kBuu/5/YtV2iYXVjv3noLb9lawtIJBU6YAwJiTU+OlB05Q9cMa6XwLColv99dwCwpkLT58bVGu5++mptdapMiAs+y/Vtr+StQUEkisdELb3Dz+ZotfLz6X93Qt3EhCm10o1n81u9cnTGhA2t/pfnVprnSoDQtcfnbl446017a9kbQGB5MoHhOHf6df66UHTCAgxaqWaT9utvj67gHDumTODai37V6bWWqfWgBDrPSIgwEClA8KQC73mcNA0AsKJtZb9Pw6p99ilnSdi1HtD7Yivzf1wibXLGz9Xc0CIsWcBAQba3h/+PxKWCAiXv3j0sIAQX86AEPIbCaPUO0ZASFR3wO8/CLj0/ylnSBhco7vy5il1JtU+gYBANqUDwr0u9trDQdMICLHqCQhlaqWqG7JWaECYsveN5c6zJebbXtq5JiAwO9vPv/xU6YBw/VNHD93Z19W9my8MX+PwCyVm1zQCQqx6i64/at+2+qncNeccEGK/r0rOK2dIqHm2i271iZPWEhDIqnRAWPcJwBw+PWgaASFWvdhzGlpv6P9KmbP/mD8LMFTs12jMWrlCQu734+LCzjti1hMQyK50QNjeP/zWmF5KzqxpBISYNRddf9Qu+9dy1Qp5XeZ+Yd9L2/Xfr2VeOULColv919C1f2Jr97HQ9afsach6AgLZlQ8Ir1/2AkJaNQeEHz5fzVTnVASEKXUXXf+12uYVuvdF1//ZiH2H7PmB0PXH1Nnsbjw+ZE0BgSJKB4SxgaKk3BdHDEP6jR0QNi72P5/60ku5fo7LOud+xqw/9AILWTtWb4+9vf/plHtfdP3nQ9YfU2PougICRWzv3/zX0pd+wDP5o+gYcl8aMQzpN3ZAGFp3zfPlROsmCwj3WPuBwIvgByn2teh2v1LLvO729WffvvszKfsL6fH48+ilnbMp1g35nSsCAsVUcPHP5tODphEQUtTO8YT3vfNLJWqXntP4eU1fd9H130g7291PlJ7rmL4FBIq5sn/z8dKX/4nP3uEHSs/pllQHbEpD+k0VENpu9SdzOoyPK9VD6Xm1Xf8vqWaVYu9zmu2Y96OAQFHFA8BMPj1oGgEhVf2Ezwdr6Duk7ubW6gNzusBCZpVq7il6rWW2AgLFlQ4BcwgHTSMgpOwh9tN2q8l7KnU5LLr+83O5wELmFHu9CfOdzWwFBIorHQQEhHSG9Js6IDRN07Rd/2quw/jscufJGD2fvbizVeqCWHQ7T83hAvv/XuPXSL2HucxWQKAKpcNA7eGgaQSEyb1ceP/baj6M1/bcrb5TsrfU83r8wjPnps8ozf5D99J2/asp1y/xfhQQqML23sHzpUPB7Wfv5ndLz2OdUpfUFMMO1jwBIaSnEU+y98yiW32h5GWxWPb/XePl9fp80tUbsa+/zFDjxGez639hzH7vJCBQjeLBoOJPD5pGQCjRW03zntRj1z1Ysn7KeaWse/bSjUuh+9tY9l1woXNXfixKMFj2vz9mn3cjIFCdq/s3P1TiKb3vk2x2/YeGPKX7PG5Iv4ut1ZWyPe7+eulLLsTQHtuu/9/SPdy+NLd2fiVVL6n/XAxdP9afwbbr/zlktjF+p8g9erk6tzMHIKkz5545c+bC0+fOXHj6XOleTlJLn7f62Dh//ZHSvZw2c3o/AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADcR/4PWdlo/PfvePsAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry y="750" width="227.87" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uaguQs_bRODa3H_5950c-147" value="https://github.com/protokol/nft-plugins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Tahoma;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="12.920000000000002" y="828" width="430" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

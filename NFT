@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T08:48:25.094Z" agent="5.0 (Macintosh)" etag="m4Q_-5EGy3G2p4DMtfw_" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T07:32:09.219Z" agent="5.0 (Macintosh)" etag="m-77QrpPJNFo61RCAsrB" version="13.3.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2262" dy="1319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="uaguQs_bRODa3H_5950c-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="wNrzx_4ZzfNDb7AbmVMs-98" target="uaguQs_bRODa3H_5950c-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-99" value="digital asset data that &lt;br&gt;must corresponds &lt;br&gt;to the registered &lt;br&gt;structure from process 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-98" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-99" value="digital asset data that &lt;br&gt;must correspond &lt;br&gt;to the registered &lt;br&gt;structure from process 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-98" vertex="1" connectable="0">
           <mxGeometry x="-0.2567" y="1" relative="1" as="geometry">
             <mxPoint x="64" y="-4.17" as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
         <mxCell id="uaguQs_bRODa3H_5950c-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" source="wNrzx_4ZzfNDb7AbmVMs-100" target="uaguQs_bRODa3H_5950c-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-103" value="digital Asset ID (Unique Token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-102" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-103" value="digital asset ID (Unique Token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-102" vertex="1" connectable="0">
           <mxGeometry x="0.1814" y="2" relative="1" as="geometry">
             <mxPoint x="-3.18" y="10.48" as="offset" />
           </mxGeometry>
@@ -80,7 +80,7 @@
         <mxCell id="uaguQs_bRODa3H_5950c-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="uaguQs_bRODa3H_5950c-96" target="wNrzx_4ZzfNDb7AbmVMs-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-101" value="digital Asset (NFT Token) &lt;br&gt;creation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-100" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-101" value="digital asset (NFT Token) &lt;br&gt;creation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-100" vertex="1" connectable="0">
           <mxGeometry x="-0.1848" y="-2" relative="1" as="geometry">
             <mxPoint x="-7.23" y="-17.04" as="offset" />
           </mxGeometry>
@@ -88,7 +88,7 @@
         <mxCell id="uaguQs_bRODa3H_5950c-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.258;entryY=1.064;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;dashed=1;" parent="1" source="uaguQs_bRODa3H_5950c-96" target="wNrzx_4ZzfNDb7AbmVMs-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-105" value="digital asset ID&lt;br&gt; (Unique Token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-104" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-105" value="digital asset ID&lt;br&gt; (unique token ID)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-104" vertex="1" connectable="0">
           <mxGeometry x="-0.4585" y="3" relative="1" as="geometry">
             <mxPoint x="-75.83" y="-145.5" as="offset" />
           </mxGeometry>
@@ -172,9 +172,9 @@
         <mxCell id="uaguQs_bRODa3H_5950c-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="uaguQs_bRODa3H_5950c-112" target="uaguQs_bRODa3H_5950c-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-114" value="list of digital asset to transfer &lt;br&gt;and recipient address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-113" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-114" value="list of digital assets to transfer &lt;br&gt;and a recipient address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-113" vertex="1" connectable="0">
           <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
-            <mxPoint x="-77" y="11.67" as="offset" />
+            <mxPoint x="-87" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uaguQs_bRODa3H_5950c-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="uaguQs_bRODa3H_5950c-112" target="uaguQs_bRODa3H_5950c-109" edge="1">
@@ -188,7 +188,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uaguQs_bRODa3H_5950c-136" value="accept trade for corresponding auction and bid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-135" vertex="1" connectable="0">
+        <mxCell id="uaguQs_bRODa3H_5950c-136" value="accept trade for a corresponding auction and bid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uaguQs_bRODa3H_5950c-135" vertex="1" connectable="0">
           <mxGeometry x="-0.0397" y="1" relative="1" as="geometry">
             <mxPoint x="-37.5" y="11" as="offset" />
           </mxGeometry>
